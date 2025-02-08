@@ -3,4 +3,6 @@
 
 ## Watch the following video for better understanding
 
-[![Watch the video]](https://github.com/aymen-fkir/smartBeat/main/video&Presentation/twiseNight.mp4)
+![video]((https://github.com/aymen-fkir/smartBeat.git/video&Presentation/twiseNight.mp4))
+
+
