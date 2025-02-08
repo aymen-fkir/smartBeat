@@ -3,6 +3,6 @@
 
 ## Watch the following video for better understanding
 
-## click -> [video]((https://github.com/aymen-fkir/smartBeat.git/video&Presentation/twiseNight.mp4))
+## click -> <a href = "https://github.com/aymen-fkir/smartBeat/blob/main/video%26Presentation/twiseNight.mp4" target="_blank"> click me </a>
 
 
